@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/a1.jpg</file>
+        <file>images/a2.jpg</file>
+        <file>images/a3.jpg</file>
+        <file>images/a4.jpg</file>
+        <file>images/u0_state0.jpg</file>
+        <file>images/u2.png</file>
+        <file>images/u4.gif</file>
+        <file>images/u8.jpg</file>
+        <file>images/u8_mouseOver.jpg</file>
+        <file>images/u51.jpg</file>
+        <file>images/u51_mouseOver.jpg</file>
+        <file>C:/Users/19466/Desktop/aaa.gif</file>
+        <file>C:/Users/19466/Desktop/bbb.jpg</file>
+        <file>C:/Users/19466/Desktop/a/u4.svg</file>
+        <file>C:/Users/19466/Desktop/a/u8.svg</file>
+        <file>C:/Users/19466/Desktop/a/u8_mouseOver.svg</file>
+        <file>C:/Users/19466/Desktop/a/u10.svg</file>
+        <file>C:/Users/19466/Desktop/a/u16.svg</file>
+        <file>C:/Users/19466/Desktop/a/u21.svg</file>
+        <file>C:/Users/19466/Desktop/a/u26.svg</file>
+        <file>C:/Users/19466/Desktop/a/u51.svg</file>
+        <file>C:/Users/19466/Desktop/a/u51_mouseOver.svg</file>
+    </qresource>
+</RCC>

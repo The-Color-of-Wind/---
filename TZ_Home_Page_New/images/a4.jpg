@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>面性毕业成绩</title>
+    <defs>
+        <linearGradient x1="90.7276492%" y1="58.018461%" x2="11.533092%" y2="38.960026%" id="linearGradient-1">
+            <stop stop-color="#00F8F0" offset="0%"></stop>
+            <stop stop-color="#00D6FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="93.1100039%" x2="50%" y2="4.8452391%" id="linearGradient-2">
+            <stop stop-color="#287FFF" offset="0%"></stop>
+            <stop stop-color="#6FABFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="93.1100039%" x2="50%" y2="4.8452391%" id="linearGradient-3">
+            <stop stop-color="#287FFF" offset="0%"></stop>
+            <stop stop-color="#6FABFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="面性毕业成绩" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-11" transform="translate(153.496674, 92.000000)">
+            <polygon id="路径-31" fill="url(#linearGradient-1)" points="0.051843087 381.818182 85.7422847 381.818182 85.7422847 227.354292 358.48457 381.818182 697.506389 193.368327 358.48457 0 0.051843087 213.973285"></polygon>
+            <path d="M0.051843087,443.606687 L0.051843087,624.307064 L357.658703,840 L715.32457,635.310146 L715.32457,257.090909 L629.299339,308.046837 L629.299339,481.492196 C627.241551,527.907517 595.566728,563.214729 534.27487,587.413833 C442.337084,623.712489 268.329925,626.282212 179.898393,587.413833 C91.4668616,548.545455 83.1098461,504.6318 87.2883539,443.606687 C87.2883539,443.606687 58.2095169,443.606687 0.051843087,443.606687 Z" id="路径-32" fill="url(#linearGradient-2)"></path>
+            <path d="M150.233661,338.545455 L358.852774,461.278092 L567.688207,338.545455 L567.688207,461.278092 C565.079432,497.817201 545.717688,521.122434 509.602975,531.193792 C479.546015,539.575817 427.070423,554.136459 358.852774,554.873891 C291.069829,555.606625 255.041794,544.806381 210.179971,531.193792 C170.215765,519.158976 150.233661,495.853742 150.233661,461.278092 L150.233661,338.545455 Z" id="路径-33" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>
